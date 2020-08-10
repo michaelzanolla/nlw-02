@@ -14,4 +14,4 @@ yarn start
 
 ## Screenshots
 
-<img src="./src/screenshots/Landing_Page.png" width="100%" height="auto" />
+<img src="./src/screenshots/Landign_Page.png" width="100%" height="auto" />
